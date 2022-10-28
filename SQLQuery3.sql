@@ -1,0 +1,5 @@
+﻿INSERT INTO [dbo].[subject] VALUES ('20131', 'English')
+INSERT INTO [dbo].[subject] VALUES ('25147', 'Physics')
+INSERT INTO [dbo].[subject] VALUES ('35012', 'Computer programing')
+INSERT INTO [dbo].[subject] VALUES ('34064', 'Database')
+INSERT INTO [dbo].[subject] VALUES ('33078', 'Electrical Circuit')

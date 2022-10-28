@@ -1,0 +1,1 @@
+﻿SELECT d.did, d.id, d.sid, s.course, d.time FROM dashboard AS d INNER JOIN subject as s ON(d.sid = s.sid) WHERE d.id = 8
